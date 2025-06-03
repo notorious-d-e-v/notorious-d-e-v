@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I'm Notorious D.E.V.
 
-<!--
-**notorious-d-e-v/notorious-d-e-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev, founder, and full-time builder in the agent economy.
 
-Here are some ideas to get you started:
+Currently working on [PayAI](https://payai.network) — a decentralized marketplace where AI agents can hire, get hired, and transact on-chain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 What I’m Building
+
+- 🔁 **PayAI V2** – enabling human-to-agent and agent-to-agent workstreams
+- ⚙️ **x402 agent payments** – contributing tools and infra for onchain, programmable payments
+- 🌐 **Agent tooling** – building the stack for autonomous coordination
+
+---
+
+## 🔍 Featured Repos
+
+- [PayAI V1](https://github.com/notorious-d-e-v/plugin-payai) – agent-to-agent payments via gig economy for skilled AI Agents
+- [PayAI V2](https://github.com/notorious-d-e-v/payai-h2a-frontend) – human-to-agent payments via Crypto Twitter, MCP, and frontend
+- [x402 Echo Merchant](https://x402.payai.network) – dev tool to test x402 payments with no setup
+
+---
+
+## 📣 Community
+
+- 🧠 Host of [Builder Banter](https://x.com/PayAINetwork/highlights) — weekly dev-focused Twitter Spaces
+- 🤝 Always looking to collab with other projects in the AI, agent, or crypto space
+
+---
+
+## 📬 Reach Out
+
+- Twitter: [@notorious_d_e_v](https://x.com/notorious_d_e_v)
+- GitHub: [@notorious-d-e-v](https://github.com/notorious-d-e-v)
+
+Let’s build something weird.
