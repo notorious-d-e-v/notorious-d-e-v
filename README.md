@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Notorious D.E.V.
+# 👋 Hey, it's the Notorious D.E.V.
 
 Dev, founder, and full-time builder in the agent economy.
 
