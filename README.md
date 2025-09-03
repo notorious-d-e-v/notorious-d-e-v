@@ -34,17 +34,6 @@ Currently working on [PayAI](https://payai.network) — a decentralized marketpl
 - Twitter: [@notorious_d_e_v](https://x.com/notorious_d_e_v)
 - GitHub: [@notorious-d-e-v](https://github.com/notorious-d-e-v)
 
+[![Tip Me](https://tip.md/badge.svg)](https://tip.md/notorious-d-e-v)
+
 Let’s build!
-
-
-<!-- WALLET-LINKING-BEGIN
-{
-  "lastUpdated": "2025-06-03T02:21:10.939Z",
-  "wallets": [
-    {
-      "chain": "solana",
-      "address": "GouAGfMhPtPS45GfCdv5yAagXm5M9ee2u2iVYTtZJM4V"
-    }
-  ]
-}
-WALLET-LINKING-END -->
