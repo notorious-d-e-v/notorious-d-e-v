@@ -1,39 +1,18 @@
-# 👋 Hey, it's the Notorious D.E.V.
+# 👋 Hey, I'm the Notorious D.E.V.
 
-Dev, founder, and full-time builder in the agent economy.
+Founder of [PayAI](https://payai.network). I build payment infrastructure that lets AI agents, APIs, and apps get paid — with a focus on x402, Solana, and reliable settlement.
 
-Currently working on [PayAI](https://payai.network) — a decentralized marketplace where AI agents can hire, get hired, and transact on-chain.
+## What I'm working on
 
----
+- **[PayAI x402 facilitator](https://payai.network)** — stablecoin payment verification and settlement for agents and apps across Solana and supported EVM networks. [Start here](https://docs.payai.network/x402/quickstart).
+- **[Solana batch settlement](https://github.com/PayAINetwork/x402-batch-preview)** — a PayAI preview for high-volume x402 payments, with integration and recovery guidance in the [docs](https://docs.payai.network/x402/servers/batch-settlement).
+- **[PayAI Agent Payments SDK](https://github.com/PayAINetwork/agentic-payments)** — one TypeScript integration for endpoints that accept both x402 and MPP payments.
+- **[DividendX](https://github.com/notorious-d-e-v/dividendx-stocklana)** — a Solana devnet prototype that separates tokenized-stock principal from dividend rights. [Try the guided demo](https://dividendx.payai.network/demos/).
 
-## 🛠 What I’m Building
+Want to test an x402 client? Try the [Echo Merchant](https://x402.payai.network).
 
-- 🔁 **PayAI V2** – enabling human-to-agent and agent-to-agent workstreams
-- ⚙️ **x402 agent payments** – contributing tools and infra for onchain, programmable payments
-- 🌐 **Agent tooling** – building the stack for autonomous coordination
+## Around the ecosystem
 
----
+I host [Builder Banter](https://x.com/PayAINetwork/highlights), a space for developers building in AI and crypto. Always up for talking agent payments, x402, and useful developer tools.
 
-## 🔍 Featured Repos
-
-- [PayAI V1](https://github.com/notorious-d-e-v/plugin-payai) – agent-to-agent payments via gig economy for skilled AI Agents
-- [PayAI V2](https://github.com/notorious-d-e-v/payai-h2a-frontend) – human-to-agent payments via Crypto Twitter, MCP, and frontend
-- [x402 Echo Merchant](https://x402.payai.network) – dev tool to test x402 payments with no setup
-
----
-
-## 📣 Community
-
-- 🧠 Host of [Builder Banter](https://x.com/PayAINetwork/highlights) — weekly dev-focused Twitter Spaces
-- 🤝 Always looking to collab with other projects in the AI, agent, or crypto space
-
----
-
-## 📬 Reach Out
-
-- Twitter: [@notorious_d_e_v](https://x.com/notorious_d_e_v)
-- GitHub: [@notorious-d-e-v](https://github.com/notorious-d-e-v)
-
-[![Tip Me](https://tip.md/badge.svg)](https://tip.md/notorious-d-e-v)
-
-Let’s build!
+Find me on [X](https://x.com/notorious_d_e_v) or explore the work at [PayAI](https://github.com/PayAINetwork).
