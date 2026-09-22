@@ -6,7 +6,6 @@ Founder of [PayAI](https://payai.network). I build payment infrastructure that l
 
 - **[PayAI x402 facilitator](https://payai.network)** — stablecoin payment verification and settlement for agents and apps across Solana and supported EVM networks. [Start here](https://docs.payai.network/x402/quickstart).
 - **[Solana batch settlement](https://github.com/PayAINetwork/x402-batch-preview)** — a PayAI preview for high-volume x402 payments, with integration and recovery guidance in the [docs](https://docs.payai.network/x402/servers/batch-settlement).
-- **[PayAI Agent Payments SDK](https://github.com/PayAINetwork/agentic-payments)** — one TypeScript integration for endpoints that accept both x402 and MPP payments.
 - **[DividendX](https://github.com/notorious-d-e-v/dividendx-stocklana)** — a Solana devnet prototype that separates tokenized-stock principal from dividend rights. [Try the guided demo](https://dividendx.payai.network/demos/).
 
 Want to test an x402 client? Try the [Echo Merchant](https://x402.payai.network).
